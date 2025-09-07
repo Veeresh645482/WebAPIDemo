@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebAPIDemo.Models;
 
 namespace WebAPIDemo.Controllers
 {
@@ -12,17 +13,30 @@ namespace WebAPIDemo.Controllers
             return "Reading all the shirts";
         }
 
-        [HttpGet("{id}/{color}")]
-      
-        public string GetShirt(int id, string color)
+        //[HttpGet("{id}")]
+
+        //public string GetShirt(int id, [FromQuery] string color)
+        //{
+        //    return $"Reading shirt:{id}, Color: {color}";
+        //}
+
+        [HttpGet("{id}")]
+
+        public string GetShirt(int id, [FromHeader(Name ="Color")] string color)
         {
             return $"Reading shirt:{id}, Color: {color}";
         }
 
+        //[HttpPost]
+        //public string CreateShirt([FromBody] Shirt shirt)
+        //{
+        //    return $"Creating a new shirt";
+        //}
+
         [HttpPost]
-        public string CreateShirt()
+        public string CreateShirt([FromBody] Shirt shirt)
         {
-            return "Creating a new shirt";
+            return $"Creating a new shirt";
         }
 
         [HttpPut("{id}")]

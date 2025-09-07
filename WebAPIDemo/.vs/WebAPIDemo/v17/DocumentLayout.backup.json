@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7671BFD8-9127-4D84-ADFB-109AB7D0E1AD}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\controllers\\shirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7671BFD8-9127-4D84-ADFB-109AB7D0E1AD}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\my laptop\\onedrive\\desktop\\bar raiser - 2\\coding\\web api\\webapidemo\\webapidemo\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BFD8-9127-4D84-ADFB-109AB7D0E1AD}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7671BFD8-9127-4D84-ADFB-109AB7D0E1AD}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\my laptop\\onedrive\\desktop\\bar raiser - 2\\coding\\web api\\webapidemo\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7671BFD8-9127-4D84-ADFB-109AB7D0E1AD}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\Models\\Shirt.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\Shirt.cs",
+              "ToolTip": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\Models\\Shirt.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\Shirt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:19:06.478Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,27 +57,26 @@
               "RelativeDocumentMoniker": "WebAPIDemo\\Controllers\\ShirtController.cs",
               "ToolTip": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\Controllers\\ShirtController.cs",
               "RelativeToolTip": "WebAPIDemo\\Controllers\\ShirtController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T16:22:29.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebAPIDemo",
+              "DocumentIndex": 3,
+              "Title": "WebAPIDemo.csproj",
               "DocumentMoniker": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\WebAPIDemo.csproj",
               "RelativeDocumentMoniker": "WebAPIDemo\\WebAPIDemo.csproj",
               "ToolTip": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\WebAPIDemo.csproj",
               "RelativeToolTip": "WebAPIDemo\\WebAPIDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-06T16:19:55.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T16:19:55.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPIDemo\\Properties\\launchSettings.json",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "WebAPIDemo\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-06T14:51:04.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T14:51:04.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPIDemo\\appsettings.json",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "WebAPIDemo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-06T14:50:55.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T14:50:55.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\My Laptop\\OneDrive\\Desktop\\Bar Raiser - 2\\Coding\\Web API\\WebAPIDemo\\WebAPIDemo\\Program.cs",
               "RelativeDocumentMoniker": "WebAPIDemo\\Program.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "WebAPIDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T14:44:41.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T14:44:41.473Z"
             }
           ]
         }
